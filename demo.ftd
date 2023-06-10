@@ -1,0 +1,19 @@
+-- import: fifthtry.github.io/doc-site as ds
+-- import: expander/assets
+-- import: springymate.github.io/portfolio-website/assets
+
+-- ds.page: Rajeev Krishna
+  
+
+-- ftd.text: Hey, there this is Rajeev I am frontend developer and a pre-final year student.I like cloning websites and creating UI for the website using tools and technologies like figma and frontend based frameworks. 
+color: white
+
+-- ds.h1: About me
+
+The below are the things in which i am interested
+
+I am a frontend developer
+I love fastn
+I love dogs
+
+-- end: ds.page

@@ -6,6 +6,7 @@ favicon: /-/springymate.github.io/fastn_yash/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+--fastn.dependency:ayushsoni1010.github.io/ui-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: springymate.github.io/fastn_yash/FASTN/my-ds
